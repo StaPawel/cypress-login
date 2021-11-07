@@ -1,0 +1,19 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "cypress test",
+  "main": "test.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "tests"
+  ],
+  "author": "pawel.s",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
